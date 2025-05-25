@@ -144,6 +144,7 @@ class _AuthScreenState extends State<AuthScreen> {
                     } else if (!email.contains('@')) {
                       return "Invalid email!";
                     }
+                    return null; // ❗ kerak
                   },
                   onSaved: (email) {
                     authData['email'] = email!;
