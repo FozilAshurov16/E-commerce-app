@@ -1,0 +1,2 @@
+/Users/macbookpro/Desktop/Flutter_Package/e_commerce_app/android/app/.cxx/RelWithDebInfo/6c2t4g6i/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Desktop/Flutter_Package/e_commerce_app/android/app/.cxx/RelWithDebInfo/6c2t4g6i/arm64-v8a/CMakeFiles/rebuild_cache.dir
